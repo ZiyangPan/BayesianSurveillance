@@ -6,7 +6,7 @@ This repository contains supplementary R code for two components of the paper:
 (1) a simulation study for sequential Bayesian surveillance under latent factor modeling and bias correction, and
 (2) a real-data analysis workflow based on profile-level input.
 
-The repository is organized to keep the code compact and reader friendly. The simulation component can be run directly. The real-data component provides the full analysis workflow, but the restricted real data are not included in this repository.
+The repository is organized to keep the code compact and reader-friendly. The simulation component can be run directly. The real-data component provides the full analysis workflow, but the restricted real data are not included in this repository.
 
 If you use this code, please cite the corresponding paper.
 
