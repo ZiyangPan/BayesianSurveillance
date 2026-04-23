@@ -24,6 +24,7 @@ project/
     ├── utils_general.R
     ├── utils_simulation.R
     └── utils_real_data.R
+```
 
 ## File descriptions
 
